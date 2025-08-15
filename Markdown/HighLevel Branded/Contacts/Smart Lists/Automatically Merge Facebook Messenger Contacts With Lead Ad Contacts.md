@@ -1,0 +1,3 @@
+**Date Updated:** 2020-06-18T20:56:11.000Z
+
+By default, incoming Facebook Messages will create a new contact in HighLevel based on the name, which will be a duplicate contact if that person has already completed a Lead Ad Form. By toggling ON the "Merge Facebook Contacts By Name" setting in Settings - Company Settings, however, you can automatically merge incoming FB Messenger contacts with the existing contact.
