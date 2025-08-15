@@ -1,0 +1,6 @@
+**Date Updated:** 2021-07-12T22:40:44.000Z
+
+Note: Now that Workflows are live in all accounts, you can do everything that Triggers and Campaigns do (and more!), all in one builder! [Click to learn more about Workflows](https://help.gohighlevel.com/support/solutions/articles/48001179678-workflow-builder-overview). 
+  
+  
+&amp;amp;amp;#8203;&amp;amp;lt;span class="fr-marker" data-id="0" data-type="true" style="display: none; line-height: 0;"&amp;amp;gt;&amp;amp;amp;#8203;&amp;amp;lt;/span&amp;amp;gt;&amp;amp;lt;span class="fr-marker" data-id="0" data-type="false" style="display: none; line-height: 0;"&amp;amp;gt;&amp;amp;amp;#8203;&amp;amp;lt;/span&amp;amp;gt;&amp;amp;amp;#8203;&amp;amp;lt;span class="fr-marker" data-id="0" data-type="true" style="display: none; line-height: 0;"&amp;amp;gt;&amp;amp;amp;#8203;&amp;amp;lt;/span&amp;amp;gt;&amp;amp;lt;span class="fr-marker" data-id="0" data-type="false" style="display: none; line-height: 0;"&amp;amp;gt;&amp;amp;amp;#8203;&amp;amp;lt;/span&amp;amp;gt;
